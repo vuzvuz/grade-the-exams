@@ -57,4 +57,4 @@ python lai_vu_grade_the_exams.py
 ```python
 is_correct = (answers.values == ANSWER_KEY)
 ```
-2. **Tính điểm khối**: Bằng cách gán giá trị True/False thành các phép tính toán học, điểm số của toàn bộ danh sách lớp được tính ra chỉ bằng một phép tổng (`sum`) theo trục ngang (`axis=1`).
+2. **Tính điểm khối**: Bằng cách gán giá trị True/False thành các phép tính toán học, điểm số của toàn bộ danh sách lớp được tính ra chỉ bằng một phép tổng (`sum`) theo trục ngang (`axis=1`). 
